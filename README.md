@@ -4,5 +4,7 @@ This project aims to perform data exploration and analysis on sales data using t
 Dependencies :
 
 python
+
 pandas
+
 matplotlib
